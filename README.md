@@ -31,4 +31,4 @@ Getting up and running is as easy as 1, 2, 3.
 
 ## Testing
 
-Simply run `yarn test` and all your tests in the `src/test/` directory will be run.
+Simply run `yarn test` and all your tests in the `test/` directory will be run.
