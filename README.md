@@ -8,16 +8,15 @@ This project is an example for Dashboard Adapter. It uses [@sonarwatch/dashboard
 
 ## Getting Started
 
-Getting up and running is as easy as 1, 2, 3.
+Getting up is as easy as 1, 2, 3.
 
-1. Make sure you have [NodeJS](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
-2. Install dependencies
+1. Install dependencies
 
     ```
     yarn
     ```
 
-3. Build your adapter
+2. Build your adapter
 
     ```
     yarn build
