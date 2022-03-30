@@ -1,5 +1,7 @@
 # dashboard-adapter-foo
 
+>
+
 ## About
 
 This project is an example for Dashboard Adapter. It uses [@sonarwatch/dashboard-adapter](https://github.com/sonarwatch/dashboard-adapter). An open source web framework for building modern real-time applications.
